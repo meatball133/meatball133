@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello! I'm Meatball
 
-<!--
-**meatball133/meatball133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages
+- 💻 **Fluent in:**
+  - Python
+  - JavaScript
+  - TypeScript
+  - Ruby
+  - Crystal
+  - Bash
+- 🌱 **Know somewhat:**
+  - Elixir
+  - Swift
 
-Here are some ideas to get you started:
+### 🧰 Tools/OS
+- Git
+- Docker
+- Linux
+- Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Frameworks/Libraries
+- Django
+- Lucky
+- Sinatra
+- React
+- Cloudflare Workers
+
+### 🌟 Open Source Work
+- Exercism maintainer of Crystal and Ruby
+- Contributor to several repos
